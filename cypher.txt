@@ -1,0 +1,19 @@
+phrase "I love cryptography" 
+a = 097
+b = 098
+c...
+z = 122
+
+A = 065
+B = 066
+C = 067
+Z = 090
+
+For every letter transform into ASCII Codes 
+CipheredPhrase "073 108111118101 099114121112116111103114097112104121"
+
+breaking it down
+"073 108 111 118 101 099 114 121 111 121 116 111 103 114 097 112 104 121"
+
+then turn back fron ASCII to the letter.
+"I love cryptography"
